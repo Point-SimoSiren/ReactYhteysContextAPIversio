@@ -1,5 +1,4 @@
-Simon yhteystietojen ylläpito sovellus. Tehty reactilla, taustajärjestelmä
-ASP.NET rest API ja SQL azure tietokanta.
+Simon yhteystietojen ylläpito sovellus. Tehty reactilla, taustajärjestelmä Node.js, Express.js ja MongoDB.
 
 Alla Facebookin laatimaa selostusta:
 
