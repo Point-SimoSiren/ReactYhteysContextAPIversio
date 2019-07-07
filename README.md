@@ -1,4 +1,4 @@
-Simon yhteystietojen ylläpito sovellus. Tehty reactilla, taustajärjestelmä Node.js, Express.js ja MongoDB.
+Simon yhteystietojen ylläpito sovellus. Tehty reactilla, taustajärjestelmä Node.js, Express.js ja MongoDB totetuksena omassa repossaan.
 
 Alla Facebookin laatimaa selostusta:
 
